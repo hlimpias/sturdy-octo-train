@@ -1,5 +1,7 @@
 # Simple version
 
+I'll accept almost any card set that has a fairly decent amount of cards (at least a few dozen), and that aren't absolutely terribly formatted. The content of the cards themselves would have to be really, really bad for me to outright reject them; this is a party game for terrible people, after all.
+
 At its simplest, you could [email me](mailto:ajanata@socialgamer.net) a plain text file with one card per line, using four underscores (`____`) for blanks on black cards. I would, however, ask that you put a little more effort into it to save me some time:
 
 It would be super awesome if you can format your cards into a .sql file so I can dump them directly into the database, as my free time these days is rather sparse. This may sound complicated, but it isn't!
