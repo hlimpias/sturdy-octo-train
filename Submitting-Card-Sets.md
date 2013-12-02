@@ -1,5 +1,7 @@
 # Simple version
 
+At its simplest, you could [email me](mailto:ajanata@socialgamer.net) a plain text file with one card per line, using four underscores (`____`) for blanks on black cards. I would, however, ask that you put a little more effort into it to save me some time:
+
 It would be super awesome if you can format your cards into a .sql file so I can dump them directly into the database, as my free time these days is rather sparse. This may sound complicated, but it isn't!
 
 For black cards, this is the formatting to use:
