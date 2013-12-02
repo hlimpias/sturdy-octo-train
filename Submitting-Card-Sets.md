@@ -24,6 +24,10 @@ Almost all of that crap is boilerplate that is required to make the database hap
 
 I'll give everything a once-over before running it through the database, and can fix up minor issues quickly myself.
 
+### Updating after submission
+
+If you're just adding new cards, it's as simple as sending in more SQL with the card text. If you want to remove or edit existing cards, it's a bit more complicated and would be best done with just the text of the cards to remove, and the old and new text of cards to edit. This is a more manual process and will take a bit more of my time.
+
 # Advanced version
 
 The specific DB engine for the SQL is Postgres. Card text allows HTML, and all characters that would be required to be escaped in HTML (i.e. &amp;lt;, &amp;amp;, etc.) must be so escaped in the database. You can use any other entity you wish. Of course <br> works. I would advise against complex formatting as the column is only `text character varying(255)`.
