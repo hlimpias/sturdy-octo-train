@@ -33,3 +33,9 @@ There is currently no way to see which, if any, Cardcast decks a game is using f
 ## Potential errors
 
 If Cardcast is down for some reason, and the decks are no longer cached by the PYX server, you may see some unusual errors. The most significant one would be "not enough players" when trying to start a game which has enough players. There is currently no easy way to change that error message. Another possibility is that listing the card sets in use in a game may completely fail if one of the card sets is deleted. The only way out of this is to manually figure out which one is broken, or make a new game.
+
+### My deck isn't being found/is out of date.
+
+I cache negative responses (i.e. "That isn't a valid deck") for 30 seconds, so if you just added it, wait a couple minutes and try again.
+
+I cache positive responses (i.e. "Here's the deck you requested") for 15 minutes. If you (or anybody else) recently used a deck, any changes to that deck might not show up for about 15 minutes.
