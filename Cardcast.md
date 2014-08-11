@@ -39,3 +39,7 @@ If Cardcast is down for some reason, and the decks are no longer cached by the P
 I cache negative responses (i.e. "That isn't a valid deck") for 30 seconds, so if you just added it, wait a couple minutes and try again.
 
 I cache positive responses (i.e. "Here's the deck you requested") for 15 minutes. If you (or anybody else) recently used a deck, any changes to that deck might not show up for about 15 minutes.
+
+## I have to register?
+
+I don't run Cardcast. They require registering to build decks. Whatever information you provide them stays with them, with the exception of the username you provide (which is listed on their site). I currently do not store these usernames anywhere. Of course the card text you provide is retrieved and distributed to players in the games that use your deck(s).
