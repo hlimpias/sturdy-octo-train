@@ -43,3 +43,5 @@ I cache positive responses (i.e. "Here's the deck you requested") for 15 minutes
 ## I have to register?
 
 I don't run Cardcast. They require registering to build decks. Whatever information you provide them stays with them, with the exception of the username you provide (which is listed on their site). I currently do not store these usernames anywhere. Of course the card text you provide is retrieved and distributed to players in the games that use your deck(s).
+
+Anybody can use any Cardcast decks for which they know the code without having to register anywhere.
