@@ -12,7 +12,7 @@ http://www.cardcastgame.com/browse
 
 `/addcardcast 5CODE`
 
-`/removecardcast 5CODE`
+`/removecardcast 5CODE` (This is currently broken. The only way to remove a Cardcast deck is to make a new game. This will be fixed in the next update, but that might not be all that soon.)
 
 `/listcardcast`
 
