@@ -1,1 +1,0 @@
-Card set submissions are now closed. I do not have sufficient time to deal with this, unfortunately. A user account system and a method of having your own private card sets is at the top of the feature list; hopefully this will only take a month or two.
